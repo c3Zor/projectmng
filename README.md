@@ -1,4 +1,4 @@
 # projectmng
 Siaip bandymas apso
-$npm istall
+$npm install
 $npm start
